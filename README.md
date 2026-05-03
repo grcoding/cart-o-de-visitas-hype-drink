@@ -1,20 +1,20 @@
-# cart-o-de-visitas-hype-drink
-O cartão digital serve como uma landing page minimalista e otimizada para dispositivos móveis, apresentando os benefícios do Hype Drink e conectando o consumidor diretamente aos canais de venda.
+Sobre o Projeto
 
-# Hype Drink - Digital Business Card
-<p align="center">
-<img src="hypedrink.jpeg" width="350" alt="Hype Drink Preview">
-</p>
-## Descrição
-Cartão de visitas digital e interativo criado para o **Hype Drink**. O objetivo é
-centralizar o contato do cliente e apresentar os benefícios do suplemento de forma rápida
-e moderna.
-## Tecnologias
-- CSS (Custom Properties, Flexbox)
-- Design Responsivo
-- Glassmorphism UI
-## Links Úteis
-- **Instagram:** [@espacoslim_cidanogueira](https://instagram.com/espacoslim_cidanogueira)
-- **WhatsApp:** [Fale Conosco](https://wa.me/5562999263526)
----
-Desenvolvido por Grazielly Souza.
+O cartão digital serve como uma landing page minimalista e otimizada para dispositivos móveis,
+apresentando os benefícios do Hype Drink e conectando o consumidor diretamente aos canais
+de venda.
+
+Pilares do Produto: Energia, Imunidade, Saúde, Metabolismo e Recuperação.
+
+Tecnologias e Conceitos
+
+Interface: Desenvolvida com foco em Dark Mode e efeitos de Glassmorphism.
+Frontend: Estruturado em React.js (ou HTML5/CSS3) para máxima performance.
+Responsividade: Design 100% Mobile-First.
+Integrações: Botões inteligentes com redirecionamento para API do WhatsApp e Instagram.
+
+Funcionalidades Principais
+CTA (Call to Action) Estratégico: Botões de ação posicionados para facilitar a venda
+imediata.
+Cards Informativos: Seções dedicadas aos benefícios (Saúde, Performance, Imunidade).
+Estética Premium: Visual inspirado na marca de performance CR7.
